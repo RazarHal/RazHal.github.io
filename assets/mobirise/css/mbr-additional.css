@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+#header3-3 H3 {
+  color: #252525;
+  text-align: left;
+  font-size: 32px;
+}
+#header3-3 SPAN {
+  color: #1fade7;
+  text-align: center;
+}
+#header3-3 P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+#image1-5 SMALL {
+  color: #1fade7;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
